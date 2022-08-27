@@ -1,4 +1,5 @@
 # neopixel-glasses
-Simple build
+
+http://www.esp8266learning.com/some-neopixel-examples.php
 
 ![](art/test.jpg)
